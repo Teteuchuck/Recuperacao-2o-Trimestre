@@ -4,7 +4,7 @@
 
 **Grupo: dois alunos**
 
-**Valor: 13 pontos**
+**Valor: 35 pontos**
 
 ## Sistema Bibliotecário
 
